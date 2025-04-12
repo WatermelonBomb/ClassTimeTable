@@ -43,3 +43,5 @@ class TimetableViewModel: ObservableObject {
         }
     }
 } 
+
+//test
